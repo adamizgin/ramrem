@@ -13,3 +13,7 @@
 #header h1, #header h2 {
   display: inline; 
 }
+
+#header h2 {
+  font-weight: 400; 
+}
