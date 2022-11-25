@@ -6,7 +6,7 @@
   list-style: none;
 }
 
-#header {
+header {
   width: 100vw;
   height: 100vh;
   background: url('https://i.ibb.co/NVDB1sb/Christian-background.jpg');
@@ -14,10 +14,10 @@
   background-position: 50% 50%;
 }
 
-#header h1, #header h2 {
+#navbar h1, #navbar h2 {
   display: inline; 
 }
 
-#header h2 {
+#navbar h2 {
   font-weight: 400; 
 }
