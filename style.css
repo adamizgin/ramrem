@@ -25,10 +25,15 @@ header {
   position: absolute;
   padding: 50px;
   display: flex;
+  align-items: center;
   justify-content: space-between;
   width: 100%;
 }
 
 #navbar a {
   color: #fff;
+}
+
+#nav-links ul {
+  display: flex; 
 }
