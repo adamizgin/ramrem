@@ -1,5 +1,6 @@
 * {
   margin: 0;
+  padding: 0;
   font-family: Helvetica, Arial, Sans-Serif;
   box-sizing: border-box;
   text-decoration: none;
@@ -14,10 +15,14 @@ header {
   background-position: 50% 50%;
 }
 
-#navbar h1, #navbar h2 {
-  display: inline; 
-}
-
 #navbar h2 {
   font-weight: 400; 
+}
+
+#navbar {
+  position: absolute;
+  margin: 50px;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
 }
