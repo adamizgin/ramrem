@@ -7,11 +7,10 @@
 }
 
 #header {
-  width: calc(100vw - 30px);
-  height: auto;
-  background: #fff;
-  box-shadow: 0 0 5px 0 #0003;
-  padding: 15px;
+  width: 100vw;
+  height: 100vh;
+  background: url('https://i.ibb.co/NVDB1sb/Christian-background.jpg');
+  background-size: cover;
 }
 
 #header h1, #header h2 {
